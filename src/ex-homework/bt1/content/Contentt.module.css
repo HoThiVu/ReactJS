@@ -1,0 +1,10 @@
+.styleContent{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+/* .styleAnh{
+    width: 200px;
+    height: 200px;
+    
+} */

@@ -1,0 +1,13 @@
+.ndBentrai{
+    display: flex;
+  justify-content: space-evenly;
+  margin: auto 0px;
+   
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+/* .kc{
+    padding-right: 20px;
+} */

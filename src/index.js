@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import * as ReacJsHothivu from'./App.js';
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+root.render( 
   <React.StrictMode>
-    <App />
+    <ReacJsHothivu.App/>
   </React.StrictMode>
+  // document.getElementsByTagName('body')[0]
 );
 
 // If you want to start measuring performance in your app, pass a function

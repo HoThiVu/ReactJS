@@ -1,0 +1,12 @@
+.formVd1{
+    display: flex;
+    justify-content:space-around;
+    margin: auto;
+  
+}
+.radio{
+    width: 15px;
+    height: 15px;
+    margin-right: 20%;
+
+}
