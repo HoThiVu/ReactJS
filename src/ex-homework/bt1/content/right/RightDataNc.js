@@ -3,6 +3,7 @@ import DataNangCao from '../DataNangCao';
 import ItemData from './item/ItemData';
 import rightContent from './rightCSS.module.css'
 class RightDataNc extends Component {
+    
      render() {
          var dis_products = DataNangCao('products');
         //  var dis_categories = DataNangCao("categories");
