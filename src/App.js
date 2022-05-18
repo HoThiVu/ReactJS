@@ -2,6 +2,7 @@
 import './App.css';
 // import Tinhdiem from './Component/FormEvent/FormDiem/Tinhdiem';
 import ChoseMenu from './Component/FormEvent/Menu/ChoseMenu';
+import Bt1 from './Component/Reduce/Bt1';
 // import Vh from './Component/FormEvent/Menu/Vh';
 // import Vd2 from './Component/FormEvent/Vd2';
 
@@ -16,7 +17,8 @@ function App() {
       {/* <Vd2></Vd2>
         <Vd3></Vd3> */}
         {/* <Tinhdiem></Tinhdiem> */}
-        <ChoseMenu></ChoseMenu>
+        {/* <ChoseMenu></ChoseMenu> */}
+        <Bt1></Bt1>
         {/* <Vh></Vh> */}
       </>
     )};
